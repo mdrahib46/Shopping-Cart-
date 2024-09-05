@@ -10,6 +10,10 @@ A simple shopping cart application built using Flutter. This app displays a list
 - Display the total amount of the items in the bag.
 - Checkout button to proceed with the purchase (currently not functional).
 
+## Screenshots
+![Screenshot_5](https://github.com/user-attachments/assets/55b0008a-1d79-473c-be9b-06ccc11dc0c3)
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -65,12 +69,9 @@ To run this project, you need to have Flutter installed. If Flutter is not insta
 
 - **Checkout Button**: A button is displayed at the bottom to simulate the checkout process.
 
-## Screenshots
-![Screenshot_5](https://github.com/user-attachments/assets/55b0008a-1d79-473c-be9b-06ccc11dc0c3)
 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
